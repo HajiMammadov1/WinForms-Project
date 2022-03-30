@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+C:\Users\Lenovo\Desktop\Supermarket\Supermarket\bin\Debug\Supermarket.exe
+C:\Users\Lenovo\Desktop\Supermarket\Supermarket\bin\Debug\Supermarket.pdb
+C:\Users\Lenovo\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.Form1.resources
+C:\Users\Lenovo\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.exe
+C:\Users\Lenovo\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
+C:\Users\Lenovo\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.Splash.resources
+C:\Users\Lenovo\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.ProductForm.resources
+C:\Users\Lenovo\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.CategoryForm.resources
+C:\Users\Lenovo\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.SellerForm.resources
+C:\Users\Lenovo\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.SellingForm.resources
